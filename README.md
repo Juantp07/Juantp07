@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Juantp07
-- 📫 My name is Juan Sebastian Torregrosa Palmett
 - 👀 I’m interested in Environment and Technology 
-- 🌱 I’m currently learning Engineering Electrical and Promamming
+- 🌱 I’m currently learning Electrical Engineering and Promamming
 
 Peace and love.
 
